@@ -1,8 +1,10 @@
 # ✨️ SwipeGenie
 
-SwipeGenie is a tool that automates your dating life on Tinder. It uses ADB to automate the interactions with the app on your Android Phone. Additionally, it utilizes the Ollama API validate your potential matches with the Llava model against your preferences.
 
-Inspired by [T-Man](https://github.com/dcostersabin/T-Man).
+SwipeGenie is a tool that automates your dating life on Tinder. It uses ADB to automate the interactions with the app on your Android Phone. Additionally, it utilizes the Ollama API validate your potential matches with the Llava model against your preferences. Inspired by [T-Man](https://github.com/dcostersabin/T-Man).
+
+https://github.com/rabume/swipegenie/assets/19410629/84bb8b3a-46a4-4188-b49d-9d81edfe867d
+
 
 ## ⚡️ Requirements
 
